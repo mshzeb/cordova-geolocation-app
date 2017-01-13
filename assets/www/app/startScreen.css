@@ -1,0 +1,140 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.startScreen_mobilecontainer {
+	padding: 5px 15px 15px 15px;
+}
+/* mobilelabel_51 */
+.startScreen_mobilelabel_51 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: center; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilebutton_2 */
+#startScreen_mobilebutton_2 {
+
+}
+.ui-btn.startScreen_mobilebutton_2 {
+	margin: 25px 5px 4px 5px;
+}
+/* mobilelabel_50 */
+.startScreen_mobilelabel_50 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 15px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegrid_38 */
+.startScreen_mobilegrid_38 {
+	height: auto;
+	width:100%;
+	margin: 10px 0px 4px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.startScreen_mobilegrid_38_wrapper {
+
+}
+.startScreen_mobilegrid_38 > tr > td {
+	vertical-align: top;
+}
+.startScreen_mobilegrid_38_row_0, .startScreen_mobilegrid_38_row_0 > td {
+	height: 30px
+}
+.startScreen_mobilegrid_38_row_1, .startScreen_mobilegrid_38_row_1 > td {
+	height: 30px
+}
+/* mobilegridcell_39 */
+.startScreen_mobilegridcell_39 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_39 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_43 */
+.startScreen_mobilelabel_43 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: right; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_40 */
+.startScreen_mobilegridcell_40 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_40 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* lbl_latitude */
+.startScreen_lbl_latitude {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_41 */
+.startScreen_mobilegridcell_41 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_41 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* mobilelabel_44 */
+.startScreen_mobilelabel_44 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: right; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilegridcell_42 */
+.startScreen_mobilegridcell_42 {
+	height:30px !important;
+	width:auto;
+	padding: 2px 2px 2px 2px;
+}
+.startScreen_mobilegridcell_42 > .cell-wrapper {
+	padding: 0;
+	margin: 0;
+}
+/* lbl_longitude */
+.startScreen_lbl_longitude {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobilelabel_49 */
+.startScreen_mobilelabel_49 {
+	text-decoration: none; font-weight: normal; font-style: italic; text-align: left; font-family: Helvetica; font-size: 16px;
+	margin: 20px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* googlemap_47 */
+.startScreen_googlemap_47 {
+	width: 320px; height: 200px;
+	margin: 15px 0px 4px 0px;
+}
+/* marker_48 */
+.startScreen_marker_48 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* mobilefooter */
+.startScreen_mobilefooter {
+	min-height:38px;
+}
